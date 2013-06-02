@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<markers>
+  <marker>
+    <marker_id>2</marker_id>
+    <map_id>1</map_id>
+    <title></title>
+    <address>789 Skyview St El Cajon, CA 92020</address>
+    <desc></desc>
+    <pic></pic>
+    <icon></icon>
+    <linkd></linkd>
+    <lat>32.77642489999999</lat>
+    <lng>-116.97219029999997</lng>
+    <anim></anim>
+    <infoopen></infoopen>
+  </marker>
+</markers>

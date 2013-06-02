@@ -1,0 +1,102 @@
+/*
+Theme Name: Glisseo - Responsive Multipurpose WordPress Theme
+Theme URI: http://themeforest.net/user/thunderbuddies?ref=thunderbuddies
+Author: ThunderBuddies & Elemis
+Author URI: http://themeforest.net/user/thunderbuddies?ref=thunderbuddies
+Version: 1.2.1
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Description: Glisseo is a clean and very well designed responsive and multi-purpose site template which is suitable for business, portfolio or personal blog websites.
+
+Designed & Partially Coded by Elemis: http://elemisfreebies.com/
+All PHP code is released under the GNU General Public Licence version 3.0
+All HTML/CSS/JAVASCRIPT code is released under Envato's Regular License (http://themeforest.net/licenses/regular_extended)
+
+Tags: dark, light, white, black, gray, one-column, two-columns, right-sidebar, responsive, custom-background, custom-header, custom-menu, editor-style, featured-image-header, featured-images, theme-options
+*/
+@import url(style.php);
+/* WP CORE STYLES */
+
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter, div.aligncenter {
+    display:block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float:left;
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+a img.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float:left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin:0;
+    max-width: 98.5%;
+    padding:0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size:11px;
+    line-height:17px;
+    margin:0;
+    padding:0 4px 5px;
+}
+
+.bypostauthor {}
+.sticky{}
+.gallery-caption{}

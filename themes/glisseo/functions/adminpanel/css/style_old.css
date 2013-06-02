@@ -1,0 +1,26 @@
+/*----------------------------------------------------------------------------- 
+
+ MAIN STYLE SHEET
+
+Screen Stylesheet 
+
+version:   	1.0 
+date:      	09/22/11 
+author:		themepunch
+email:     	support@themepunch.com 
+website:   	http://www.themepunch.com
+-----------------------------------------------------------------------------*/
+
+/**********************
+	-	BASICS 	-
+***********************/
+
+html {
+	width: 100%;
+	overflow-x:hidden;
+}
+
+a{
+	text-decoration:none;
+}
+

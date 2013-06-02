@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Glisseo - Responsive Multipurpose WordPress Theme v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-14 14:58+0100\n"
+"PO-Revision-Date: 2012-11-03 12:08:13+0000\n"
+"Last-Translator: Damojo <info@damojothemes>\n"
+"Language-Team: Damojo <info@damojothemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: E:/WORK/HTML&WP/ApexWP\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: E:/WORK/HTML&WP/ApexWP\n"
+"X-Textdomain-Support: yes"
+
+#: archive.php:13
+#: contact.php:16
+#: content.php:16
+#: gallery_overview.php:16
+#: home_page.php:16
+#: videocase.php:16
+#@ tb_glisseo
+msgid "Read More"
+msgstr "Read More"
+
+#: archive.php:106
+#: contact.php:77
+#: home_page.php:61
+#@ tb_glisseo
+msgid "Oops, we could not find what you were looking for..."
+msgstr "Oops, we could not find what you were looking for..."
+
+#: comments.php:39
+#@ tb_glisseo
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:44
+#@ tb_glisseo
+msgid "Submit Comment"
+msgstr "Submit Comment"
+
+#: comments.php:9
+#@ tb_glisseo
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "This post is password protected. Enter the password to view any comments."
+
+#: archive.php:240
+#: archive.php:260
+#: index.php:189
+#: index.php:209
+#: single.php:221
+#@ tb_glisseo
+msgid "Comments"
+msgstr "Comments"
+
+#: comments.php:24
+#@ tb_glisseo
+msgid "Older Comments "
+msgstr "Older Comments "
+
+#: comments.php:25
+#@ tb_glisseo
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: functions/theme_post_comments.php:33
+#@ tb_glisseo
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: functions/theme_post_comments.php:33
+#@ tb_glisseo
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: comments.php:37
+#@ tb_glisseo
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:38
+#@ tb_glisseo
+msgid "Email"
+msgstr "Email"
+
+#: functions/theme_functions.php:176
+#@ tb_glisseo
+msgid "Reply"
+msgstr "Reply"
+
+#: functions/theme_functions.php:177
+#@ tb_glisseo
+msgid "Log in to Reply"
+msgstr "Log in to Reply"
+
+#: archive.php:14
+#: contact.php:17
+#: content.php:17
+#: gallery_overview.php:17
+#: home_page.php:17
+#: videocase.php:17
+#@ tb_glisseo
+msgid "Share This"
+msgstr "Share This"
+
+#: archive.php:15
+#: archive.php:45
+#: archive.php:117
+#: contact.php:18
+#: content.php:18
+#: gallery_overview.php:18
+#: home_page.php:18
+#: index.php:44
+#: videocase.php:18
+#@ tb_glisseo
+msgid "Archive"
+msgstr "Archive"
+
+#: archive.php:16
+#: contact.php:19
+#: content.php:19
+#: gallery_overview.php:19
+#: home_page.php:19
+#: index.php:46
+#: videocase.php:19
+#@ tb_glisseo
+msgid "Tag Archive"
+msgstr "Tag Archive"
+
+#: archive.php:17
+#: archive.php:54
+#: contact.php:20
+#: content.php:20
+#: gallery_overview.php:20
+#: home_page.php:20
+#: index.php:40
+#: videocase.php:20
+#@ tb_glisseo
+msgid "Category"
+msgstr "Category"
+
+#: archive.php:49
+#@ tb_glisseo
+msgid "Tag Archive "
+msgstr ""
+
+#: archive.php:240
+#: archive.php:260
+#: comments.php:15
+#: index.php:189
+#: index.php:209
+#: single.php:221
+#@ tb_glisseo
+msgid "0 Comments"
+msgstr ""
+
+#: archive.php:240
+#: archive.php:260
+#: comments.php:15
+#: functions/theme_shortcodes.php:321
+#: index.php:189
+#: index.php:209
+#: single.php:221
+#@ tb_glisseo
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:15
+#@ tb_glisseo
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:42
+#@ tb_glisseo
+msgid "Would you like to share your thoughts?"
+msgstr ""
+
+#: functions/theme_breadcrumbs.php:23
+#@ tb_glisseo
+msgid "Portfolio"
+msgstr ""
+
+#: functions/theme_functions.php:95
+#, php-format
+#@ tb_glisseo
+msgid "View all posts in %s"
+msgstr ""
+
+#: functions/theme_functions.php:364
+#@ tb_glisseo
+msgid "type and hit enter"
+msgstr ""
+
+#: functions/theme_pagination.php:46
+#: gallery_overview.php:107
+#@ tb_glisseo
+msgid "Next"
+msgstr ""
+
+#: functions/theme_pagination.php:50
+#: functions/theme_pagination.php:60
+#@ tb_glisseo
+msgid "Last"
+msgstr ""
+
+#: functions/theme_pagination.php:56
+#@ tb_glisseo
+msgid "First"
+msgstr ""
+
+#: functions/theme_post_like.php:58
+#@ tb_glisseo
+msgid "You voted already"
+msgstr ""
+
+#: functions/theme_shortcodes.php:321
+#@ tb_glisseo
+msgid " Comments"
+msgstr ""
+
+#: gallery_overview.php:107
+#@ tb_glisseo
+msgid "Close"
+msgstr ""
+
+#: gallery_overview.php:107
+#@ tb_glisseo
+msgid "Previous"
+msgstr ""
+
+#: gallery_overview.php:109
+#@ tb_glisseo
+msgid "Navigate by"
+msgstr ""
+
+#: gallery_overview.php:110
+#@ tb_glisseo
+msgid "Dragging"
+msgstr ""
+
+#: gallery_overview.php:111
+#@ tb_glisseo
+msgid "Arrows"
+msgstr ""
+
+#: gallery_overview.php:112
+#@ tb_glisseo
+msgid "Keyboard"
+msgstr ""
+
+#: portfolio.php:82
+#: videocase.php:98
+#@ tb_glisseo
+msgid "All"
+msgstr ""
+
+#: search.php:38
+#@ tb_glisseo
+msgid "hit for"
+msgstr ""
+
+#: search.php:38
+#@ tb_glisseo
+msgid "hits for"
+msgstr ""
+
+#: search.php:48
+#@ tb_glisseo
+msgid "Search"
+msgstr ""
+
+#: single.php:260
+#: single_portfolio.php:201
+#@ tb_glisseo
+msgid "Related Posts"
+msgstr ""
+
+#: single_portfolio.php:134
+#@ tb_glisseo
+msgid "Date:"
+msgstr ""
+
+#: single_portfolio.php:136
+#@ tb_glisseo
+msgid "Skills:"
+msgstr ""
+
+#: single_portfolio.php:138
+#@ tb_glisseo
+msgid "Client:"
+msgstr ""
+
+#: single_portfolio.php:140
+#@ tb_glisseo
+msgid "Link:"
+msgstr ""
+
+#: single_portfolio.php:160
+#@ tb_glisseo
+msgid "All Items"
+msgstr ""
+
